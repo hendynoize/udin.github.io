@@ -1,0 +1,15 @@
+title: Flat Fast SEO
+description: Super fast Jekyll blog with full SEO and dark mode
+url: "https://udin.github.io"
+baseurl: "/jekyll-flatfastseo"
+
+permalink: /:title/
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
